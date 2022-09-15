@@ -10,7 +10,7 @@ const Header = () => (
       <SubHeading title="Découvez de nouvelles saveurs"/>
       <h1 className="app__header-h1"> dégustez et appréciez </h1>
       <p className='p__opensans' style={{margin:'2rem 0'}}>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, adipisci! Ab recusandae quasi unde natus repellat dolore enim, accusantium soluta.
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, adipisci! Ab recusandae quasi unde natus repellat dolore enim, accusantium .
       </p>
       <button type='button' className='custom__button'>
         <a href="#menu">Menu</a> 
